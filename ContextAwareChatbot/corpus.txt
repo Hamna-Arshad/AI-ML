@@ -1,0 +1,16 @@
+
+Customer churn refers to the loss of customers or clients who stop doing business with a company or service.
+It is a key metric for companies in subscription-based industries such as telecom, SaaS, and streaming services.
+Common reasons for churn include high prices, poor customer service, lack of value, and better offers from competitors.
+Churn can be voluntary (customer chooses to leave) or involuntary (due to failed payments, etc).
+Customer retention strategies include loyalty programs, personalized offers, proactive support, and satisfaction surveys.
+In the telecom industry, predicting churn allows companies to take preventive actions before the customer leaves.
+Machine learning models like Logistic Regression, Random Forest, and XGBoost are commonly used to build churn prediction systems.
+These models use features like tenure, monthly charges, contract type, internet service, and customer support calls.
+One popular dataset for churn modeling is the Telco Customer Churn dataset, which includes features like gender, contract type, and payment method.
+Churn rate is calculated as: (Number of customers lost in a period / Total customers at the start) * 100.
+Reducing churn improves lifetime value (LTV), profitability, and customer satisfaction.
+It is cheaper to retain an existing customer than to acquire a new one.
+Predictive churn models must be updated regularly as customer behavior patterns change over time.
+Explainable AI (XAI) tools like SHAP or LIME can help interpret the predictions of black-box churn models.
+Integrating churn prediction into CRM systems enables targeted marketing campaigns and better decision-making.

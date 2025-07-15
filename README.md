@@ -19,6 +19,7 @@ The goal of this project is to develop a command-line medical assistant chatbot 
 ## How to Run
 1. Clone this repository.
 2. Add your Azure token to a `.env` file
+* Note: Please download the file to view correct code. 
 
 
 # Heart Disease Prediction using Logistic Regression
